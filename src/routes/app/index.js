@@ -3,7 +3,6 @@ import Layout from '../../components/Layout';
 import App from './App';
 
 const title = 'App';
-A;
 function action() {
   return {
     chunks: ['app'],
